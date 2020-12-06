@@ -1,4 +1,10 @@
+Experimenting with formatting lists, numbering lists, etc.    
+
+
 References: 
+- https://docs.github.com/en/free-pro-team@latest/github/writing-on-github
+  + https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax
+    * https://github.github.com/gfm/#example-265
   * https://gist.github.com/joshbode/491ad0e678d456ea8ddc
   * https://gist.github.com/patik/89ee6092c72a9e39950445c01598517a
 
